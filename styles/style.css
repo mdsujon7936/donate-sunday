@@ -1,0 +1,221 @@
+*{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+   
+}
+/* header */
+.banner{
+    background-image: url('../images/donation5.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    margin: 0px;
+    width:100%;
+    
+}
+.blog{
+    text-align: center;
+    color: #FFF;
+}
+.header-title{
+    font-size: 65px;
+    font-weight: 700;
+    padding-top: 170px;
+    margin-left: 200px;
+    margin-right: 200px;
+    /* text-align: center; */
+}
+.header-description{
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+.btn{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFF;
+    border-radius: 5px;
+    background: #FF5959;
+    border: 0px;
+    padding: 12px 16px;
+    margin-bottom: 170px;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* ------------Today donate------------------------- */
+.today{
+    text-align: center;
+}
+.Donate{
+    color: #121212;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 135px;
+    margin-bottom: 30px;
+    
+}
+.donate-description{
+color: #707070;
+font-size: 18px;
+font-weight: 400;
+margin-left: 280px;
+margin-right: 280px;
+margin-bottom: 35px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 22px;
+    
+}
+li {
+    color: #707070;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    background: #FAFAFA;
+    padding: 43px 24px;
+}
+.special{  
+    border-radius: 5px;
+    border: 2px solid #FF5959;
+    background: #FEE;
+}
+.amount{
+    color: #B3B3B3;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 9.5px;
+}
+hr{
+    margin-bottom:30px ;
+    color: #DADADA;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+/*----------------- donation plan -----------------------------*/
+.donation {
+    
+}
+.food-shelter-aducation{
+    display: flex;
+    gap: 24px;
+   
+}
+.desing{
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10);
+    padding:50px 28px ;
+}
+.title{
+    color: #121212;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 16px;
+
+}
+.plan-description{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+/* ---------------Contribute----------------- */
+.Contribute{
+    display:flex;
+    /* margin-top: 180px; */
+    gap: 50px;
+}
+.depend{
+    margin-top: 120px;
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+
+}
+.donation-pc{
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Contribute-btn{
+    color: #FFF;
+    border-radius: 5px;
+    background: #FF5959;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 16px 12px;
+    border: 0px;
+}
+
+.donation1{
+    margin-top: 100px;
+    margin-right: 50px;
+}
+form{
+    text-align: center;
+    background-color: #f0afaf;
+    padding: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    font-size: 24px;
+    border-radius: 5px;
+    gap: 0px;
+
+}
+input{
+    background-color: #b8b4b4;
+    border: 0px;
+    padding-left: 18px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 5px;
+
+}
+button{
+    padding: 14px 18px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    margin-left: 0px;
+}
+/* ---------------footer------------- */
+footer{
+    text-align: center;
+    background-color: #121212;
+    padding: 42px;
+}
+.footer-titel{
+    color: #FF5959;
+    font-family: Lobster;
+    font-size: 36px;
+    font-weight: 400;
+    font-feature-settings: 'clig' off, 'liga' off;
+    margin-bottom: 24px;
+}
+.tola{
+    color: var(--text-gray-300, #D9DBE1);
+font-feature-settings: 'liga' off;
+
+/* Body / Body 2 */
+font-family: Manrope;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+}
